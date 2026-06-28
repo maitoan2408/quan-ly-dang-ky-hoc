@@ -149,4 +149,4 @@ class CourseController extends BaseAdminController {
         }
         exit();
     }
-}
+} 
