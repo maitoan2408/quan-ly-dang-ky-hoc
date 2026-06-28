@@ -120,4 +120,4 @@ class CourseRegistrationController {
         header("Location: Index.php?action=student_course_registration");
         exit();
     }
-}
+} 
